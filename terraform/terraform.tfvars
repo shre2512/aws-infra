@@ -1,0 +1,9 @@
+profile                = "prod"
+region                 = "us-east-1"
+cidr                   = "10.10.0.0/16"
+destination_cidr_block = "0.0.0.0/0"
+subnet_count           = 3
+owners                 = "620170578969"
+db_password            = "shreyas_rds"
+hostedzoneid           = "Z09682426UEC1DT6IKTG"
+hostzonename           = "demo.shreyas-webapp.me"
